@@ -57,4 +57,10 @@
     <dimen name="custom_global_actions_bottom_padding">90dp</dimen>
     <dimen name="custom_global_actions_top_padding">100dp</dimen>
 
+    <!-- Status bar notification ticker -->
+    <dimen name="ticker_start_padding">6dp</dimen>
+    <dimen name="ticker_icon_end_margin">4dp</dimen>
+    <dimen name="ticker_text_top_padding">2dp</dimen>
+    <dimen name="ticker_text_end_padding">10dp</dimen>
+
 </resources>
